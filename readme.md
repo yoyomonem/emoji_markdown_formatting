@@ -7,3 +7,4 @@
 | :kissing_closed_eyes: `:kissing_closed_eyes:` | :flushed: `:flushed:` | :relieved: `:relieved:` |
 | :satisfied: `:satisfied:` | :grin: `:grin:` | :kissing: `:kissing:` |
 | :stuck_out_tongue_winking_eye: `:stuck_out_tongue_winking_eye:` | :stuck_out_tongue_closed_eyes: `:stuck_out_tongue_closed_eyes:` | :grinning: `:grinning:` |
+| :kissing: `:kissing:` |
