@@ -1,5 +1,5 @@
-# People
-
+# Emoji
+## People
 🎀 `:bowtie:` (deprecated) | :smile: `:smile:` | :laughing: `:laughing:` |
 |---|---|---|
 | :blush: `:blush:` | :smiley: `:smiley:` | :relaxed: `:relaxed:` __(best indexed on macOS)__ |
